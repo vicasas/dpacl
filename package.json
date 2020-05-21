@@ -1,0 +1,28 @@
+{
+  "name": "dpacl",
+  "version": "0.1.0",
+  "description": "División Político Administrativa de Chile",
+  "main": "src/index.js",
+  "scripts": {
+    "pretty": "node_modules/.bin/prettier --write \"**/*.+(js|jsx|json|yml|yaml|css|md|vue)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicasas/dpacl.git"
+  },
+  "keywords": [
+    "Regiones",
+    "Provincias",
+    "Comunas",
+    "Chile"
+  ],
+  "author": "Víctor Casas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicasas/dpacl/issues"
+  },
+  "homepage": "https://github.com/vicasas/dpacl#readme",
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}

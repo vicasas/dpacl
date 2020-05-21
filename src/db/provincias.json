@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "regionId": 1,
+    "name": "Arica",
+    "capital": "Arica",
+    "description": "Provincia de Arica"
+  },
+  {
+    "id": 2,
+    "regionId": 1,
+    "name": "Parinacota",
+    "capital": "Putre",
+    "description": "Provincia de Parinacota"
+  },
+  {
+    "id": 3,
+    "regionId": 2,
+    "name": "Iquique",
+    "capital": "Iquique",
+    "description": "Provincia de Iquique"
+  },
+  {
+    "id": 4,
+    "regionId": 2,
+    "name": "Tamarugal",
+    "capital": "Pozo Almonte",
+    "description": "Provincia de Tamarugal"
+  },
+  {
+    "id": 5,
+    "regionId": 3,
+    "name": "Antofagasta",
+    "capital": "Antofagasta",
+    "description": "Provincia de Antofagasta"
+  },
+  {
+    "id": 6,
+    "regionId": 3,
+    "name": "El Loa",
+    "capital": "Calama",
+    "description": "Provincia de El Loa"
+  },
+  {
+    "id": 7,
+    "regionId": 3,
+    "name": "Tocopilla",
+    "capital": "Tocopilla",
+    "description": "Provincia de Tocopilla"
+  },
+  {
+    "id": 8,
+    "regionId": 4,
+    "name": "Chañaral",
+    "capital": "Chañaral",
+    "description": "Provincia de Chañaral"
+  },
+  {
+    "id": 9,
+    "regionId": 4,
+    "name": "Copiapó",
+    "capital": "Copiapó",
+    "description": "Provincia de Copiapó"
+  },
+  {
+    "id": 10,
+    "regionId": 4,
+    "name": "Huasco",
+    "capital": "Vallenar",
+    "description": "Provincia de Huasco"
+  },
+  {
+    "id": 11,
+    "regionId": 5,
+    "name": "Choapa",
+    "capital": "Illapel",
+    "description": "Provincia de Choapa"
+  },
+  {
+    "id": 12,
+    "regionId": 5,
+    "name": "Elqui",
+    "capital": "Coquimbo",
+    "description": "Provincia de Elqui"
+  },
+  {
+    "id": 13,
+    "regionId": 5,
+    "name": "Limarí",
+    "capital": "Ovalle",
+    "description": "Provincia de Limarí"
+  },
+  {
+    "id": 14,
+    "regionId": 6,
+    "name": "Isla de Pascua",
+    "capital": "Hanga Roa",
+    "description": "Provincia de Isla de Pascua"
+  },
+  {
+    "id": 15,
+    "regionId": 6,
+    "name": "Los Andes",
+    "capital": "Los Andes",
+    "description": "Provincia de Los Andes"
+  },
+  {
+    "id": 16,
+    "regionId": 6,
+    "name": "Marga Marga",
+    "capital": "Quilpué",
+    "description": "Provincia de Marga Marga"
+  },
+  {
+    "id": 17,
+    "regionId": 6,
+    "name": "Petorca",
+    "capital": "La Ligua",
+    "description": "Provincia de Petorca"
+  },
+  {
+    "id": 18,
+    "regionId": 6,
+    "name": "Quillota",
+    "capital": "Quillota",
+    "description": "Provincia de Quillota"
+  },
+  {
+    "id": 19,
+    "regionId": 6,
+    "name": "San Antonio",
+    "capital": "San Antonio",
+    "description": "Provincia de San Antonio"
+  },
+  {
+    "id": 20,
+    "regionId": 6,
+    "name": "San Felipe de Aconcagua",
+    "capital": "San Felipe",
+    "description": "Provincia de San Felipe de Aconcagua"
+  },
+  {
+    "id": 21,
+    "regionId": 6,
+    "name": "Valparaíso",
+    "capital": "Valparaíso",
+    "description": "Provincia de Valparaíso"
+  },
+  {
+    "id": 22,
+    "regionId": 7,
+    "name": "Chacabuco",
+    "capital": "Colina",
+    "description": "Provincia de Chacabuco"
+  },
+  {
+    "id": 23,
+    "regionId": 7,
+    "name": "Cordillera",
+    "capital": "Puente Alto",
+    "description": "Provincia de Cordillera"
+  },
+  {
+    "id": 24,
+    "regionId": 7,
+    "name": "Maipo",
+    "capital": "San Bernardo",
+    "description": "Provincia de Maipo"
+  },
+  {
+    "id": 25,
+    "regionId": 7,
+    "name": "Melipilla",
+    "capital": "Melipilla",
+    "description": "Provincia de Melipilla"
+  },
+  {
+    "id": 26,
+    "regionId": 7,
+    "name": "Santiago",
+    "capital": "Santiago",
+    "description": "Provincia de Santiago"
+  },
+  {
+    "id": 27,
+    "regionId": 7,
+    "name": "Talagante",
+    "capital": "Talagante",
+    "description": "Provincia de Talagante"
+  },
+  {
+    "id": 28,
+    "regionId": 8,
+    "name": "Cachapoal",
+    "capital": "Rancagua",
+    "description": "Provincia de Cachapoal"
+  },
+  {
+    "id": 29,
+    "regionId": 8,
+    "name": "Cardenal Caro",
+    "capital": "Pichilemu",
+    "description": "Provincia Cardenal Caro"
+  },
+  {
+    "id": 30,
+    "regionId": 8,
+    "name": "Colchagua",
+    "capital": "San Fernando",
+    "description": "Provincia de Colchagua"
+  },
+  {
+    "id": 31,
+    "regionId": 9,
+    "name": "Cauquenes",
+    "capital": "Cauquenes",
+    "description": "Provincia de Cauquenes"
+  },
+  {
+    "id": 32,
+    "regionId": 9,
+    "name": "Curicó",
+    "capital": "Curicó",
+    "description": "Provincia de Curicó"
+  },
+  {
+    "id": 33,
+    "regionId": 9,
+    "name": "Linares",
+    "capital": "Linares",
+    "description": "Provincia de Linares"
+  },
+  {
+    "id": 34,
+    "regionId": 9,
+    "name": "Talca",
+    "capital": "Talca",
+    "description": "Provincia de Talca"
+  },
+  {
+    "id": 35,
+    "regionId": 10,
+    "name": "Diguillín",
+    "capital": "Bulnes",
+    "description": "Provincia de Diguillín"
+  },
+  {
+    "id": 36,
+    "regionId": 10,
+    "name": "Itata",
+    "capital": "Quirihue",
+    "description": "Provincia de Itata"
+  },
+  {
+    "id": 37,
+    "regionId": 10,
+    "name": "Punilla",
+    "capital": "San Carlos",
+    "description": "Provincia de Punilla"
+  },
+  {
+    "id": 38,
+    "regionId": 11,
+    "name": "Arauco",
+    "capital": "Lebu",
+    "description": "Provincia de Arauco"
+  },
+  {
+    "id": 39,
+    "regionId": 11,
+    "name": "Biobío",
+    "capital": "Los Ángeles",
+    "description": "Provincia de Biobío"
+  },
+  {
+    "id": 40,
+    "regionId": 11,
+    "name": "Concepción",
+    "capital": "Concepción",
+    "description": "Provincia de Concepción"
+  },
+  {
+    "id": 41,
+    "regionId": 12,
+    "name": "Cautín",
+    "capital": "Temuco",
+    "description": "Provincia de Cautín"
+  },
+  {
+    "id": 42,
+    "regionId": 12,
+    "name": "Malleco",
+    "capital": "Angol",
+    "description": "Provincia de Malleco"
+  },
+  {
+    "id": 43,
+    "regionId": 13,
+    "name": "Ranco",
+    "capital": "La Unión",
+    "description": "Provincia del Ranco"
+  },
+  {
+    "id": 44,
+    "regionId": 13,
+    "name": "Valdivia",
+    "capital": "Valdivia",
+    "description": "Provincia de Valdivia"
+  },
+  {
+    "id": 45,
+    "regionId": 14,
+    "name": "Chiloé",
+    "capital": "Castro",
+    "description": "Provincia de Chiloé"
+  },
+  {
+    "id": 46,
+    "regionId": 14,
+    "name": "Llanquihue",
+    "capital": "Puerto Montt",
+    "description": "Provincia de Llanquihue"
+  },
+  {
+    "id": 47,
+    "regionId": 14,
+    "name": "Osorno",
+    "capital": "Osorno",
+    "description": "Provincia de Osorno"
+  },
+  {
+    "id": 48,
+    "regionId": 14,
+    "name": "Palena",
+    "capital": "Chaitén",
+    "description": "Provincia de Palena"
+  },
+  {
+    "id": 49,
+    "regionId": 15,
+    "name": "Aysén",
+    "capital": "Puerto Aysén",
+    "description": "Provincia de Aysén"
+  },
+  {
+    "id": 50,
+    "regionId": 15,
+    "name": "Capitán Prat",
+    "capital": "Cochrane",
+    "description": "Provincia Capitán Prat"
+  },
+  {
+    "id": 51,
+    "regionId": 15,
+    "name": "Coyhaique",
+    "capital": "Coyhaique",
+    "description": "Provincia de Coyhaique"
+  },
+  {
+    "id": 52,
+    "regionId": 15,
+    "name": "General Carrera",
+    "capital": "Chile Chico",
+    "description": "Provincia General Carrera"
+  },
+  {
+    "id": 53,
+    "regionId": 16,
+    "name": "Antártica Chilena",
+    "capital": "Puerto Williams",
+    "description": "Provincia de Antártica Chilena"
+  },
+  {
+    "id": 54,
+    "regionId": 16,
+    "name": "Magallanes",
+    "capital": "Punta Arenas",
+    "description": "Provincia de Magallanes"
+  },
+  {
+    "id": 55,
+    "regionId": 16,
+    "name": "Tierra del Fuego",
+    "capital": "Porvenir",
+    "description": "Provincia de Tierra del Fuego"
+  },
+  {
+    "id": 56,
+    "regionId": 16,
+    "name": "Última Esperanza",
+    "capital": "Puerto Natales",
+    "description": "Provincia de Última Esperanza"
+  }
+]

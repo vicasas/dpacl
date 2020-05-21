@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Arica y Parinacota",
+    "capital": "Arica",
+    "description": "Región de Arica y Parinacota"
+  },
+  {
+    "id": 2,
+    "name": "Tarapacá",
+    "capital": "Iquique",
+    "description": "Región de Tarapacá"
+  },
+  {
+    "id": 3,
+    "name": "Antofagasta",
+    "capital": "Antofagasta",
+    "description": "Región de Antofagasta"
+  },
+  {
+    "id": 4,
+    "name": "Atacama",
+    "capital": "Copiapó",
+    "description": "Región de Atacama"
+  },
+  {
+    "id": 5,
+    "name": "Coquimbo",
+    "capital": "La Serena",
+    "description": "Región de Coquimbo"
+  },
+  {
+    "id": 6,
+    "name": "Valparaíso",
+    "capital": "Valparaíso",
+    "description": "Región de Valparaíso"
+  },
+  {
+    "id": 7,
+    "name": "Metropolitana de Santiago",
+    "capital": "Santiago",
+    "description": "Región Metropolitana de Santiago"
+  },
+  {
+    "id": 8,
+    "name": "Libertador General Bernardo O'Higgins",
+    "capital": "Rancagua",
+    "description": "Región del Libertador General Bernardo O'Higgins"
+  },
+  {
+    "id": 9,
+    "name": "Maule",
+    "capital": "Talca",
+    "description": "Región del Maule"
+  },
+  {
+    "id": 10,
+    "name": "Ñuble",
+    "capital": "Chillán",
+    "description": "Región del Ñuble"
+  },
+  {
+    "id": 11,
+    "name": "Biobío",
+    "capital": "Concepción",
+    "description": "Región del Biobío"
+  },
+  {
+    "id": 12,
+    "name": "La Araucanía",
+    "capital": "Temuco",
+    "description": "Región de La Araucanía"
+  },
+  {
+    "id": 13,
+    "name": "Los Ríos",
+    "capital": "Valdivia",
+    "description": "Región de Los Ríos"
+  },
+  {
+    "id": 14,
+    "name": "Los Lagos",
+    "capital": "Puerto Montt",
+    "description": "Región de Los Lagos"
+  },
+  {
+    "id": 15,
+    "name": "Aysén del General Carlos Ibañez del Campo",
+    "capital": "Coyhaique",
+    "description": "Región de Aysén del General Carlos Ibañez del Campo"
+  },
+  {
+    "id": 16,
+    "name": "Magallanes y de la Antártica Chilena",
+    "capital": "Punta Arenas",
+    "description": "Región de Magallanes y de la Antártica Chilena"
+  }
+]
