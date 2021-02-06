@@ -4,7 +4,6 @@ about: Create a report to help us improve
 title: ''
 labels: needs triage
 assignees: ''
-
 ---
 
 <!-- Provide a general summary of the issue in the Title above -->
@@ -38,10 +37,7 @@ assignees: ''
 
 Steps:
 
-1. 
-2. 
-3. 
-4. 
+1. 2. 3. 4.
 
 ### Context 🔦
 
@@ -52,6 +48,6 @@ Steps:
 
 ### Your Environment 🌎
 
--
--
+## -
+
 -
