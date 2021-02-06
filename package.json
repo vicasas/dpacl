@@ -2,9 +2,11 @@
   "name": "dpacl",
   "version": "1.0.0",
   "description": "División Político Administrativa de Chile",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "pretty": "node_modules/.bin/prettier --write \"**/*.+(js|jsx|json|yml|yaml|css|md|vue)\""
+    "start": "nodemon --exec babel-node ./src/index.js",
+    "build": "rm -rf dist && babel --minified --no-comments src --out-dir dist --copy-files",
+    "pretty": "prettier --write \"**/*.+(js|jsx|ts|tsx|json|yml|yaml|css|md)\""
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,11 @@
   },
   "homepage": "https://github.com/vicasas/dpacl#readme",
   "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/node": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "nodemon": "^2.0.7",
     "prettier": "^2.0.5"
   }
 }
