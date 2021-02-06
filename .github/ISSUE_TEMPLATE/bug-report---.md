@@ -37,7 +37,10 @@ assignees: ''
 
 Steps:
 
-1. 2. 3. 4.
+1. 
+2. 
+3. 
+4. 
 
 ### Context 🔦
 
@@ -48,6 +51,6 @@ Steps:
 
 ### Your Environment 🌎
 
-## -
-
+-
+-
 -

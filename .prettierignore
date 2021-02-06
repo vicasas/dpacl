@@ -4,3 +4,4 @@ package-lock.json
 yarn.lock
 package.json
 src/**/*.test.js
+.github/
