@@ -1,15 +1,13 @@
-const regiones = require('./db/regiones.json')
-const provincias = require('./db/provincias.json')
-const comunas = require('./db/comunas.json')
+import regions from './db/regions.json'
+import provinces from './db/provinces.json'
+import communes from './db/communes.json'
 
 /**
  * Lista de Regiones de Chile
  *
  * @return  devuelve una lista de Regiones de Chile
  */
-function getRegiones() {
-  return regiones
-}
+export const getRegions = () => regions
 
 /**
  * Lista de Provincias de Chile
@@ -21,12 +19,14 @@ function getRegiones() {
  *
  * @return {array}  devuelve una lista de las Provincias de Chile
  */
-function getProvincias(id = null) {
-  if (id !== null) {
-    return provincias.filter((p) => p.regionId === id)
+export const getProvinces = (id = null) => {
+  if (id && typeof id !== 'number') {
+    throw new Error('A type number value was expected')
   }
 
-  return provincias
+  return id !== null
+    ? provinces.filter((province) => province.regionId === id)
+    : provinces
 }
 
 /**
@@ -39,12 +39,14 @@ function getProvincias(id = null) {
  *
  * @return {array}  devuelve una lista de las Comunas de Chile
  */
-function getComunas(id = null) {
-  if (id !== null) {
-    return comunas.filter((c) => c.provinciaId === id)
+export const getCommunes = (id = null) => {
+  if (id && typeof id !== 'number') {
+    throw new Error('A type number value was expected')
   }
 
-  return comunas
+  return id !== null
+    ? communes.filter((commune) => commune.provinciaId === id)
+    : communes
 }
 
 /**
@@ -54,17 +56,10 @@ function getComunas(id = null) {
  *
  * @return {array}  devuelve una lista de las comunas de Chile
  */
-function getComunasByRegion(id) {
-  if (id !== null) {
-    return comunas.filter((c) => c.regionId === id)
+export const getCommunesByRegion = (id = null) => {
+  if (!id || typeof id !== 'number') {
+    throw new Error('A type number value was expected')
   }
 
-  return 'Debe indicar un id de una Región'
-}
-
-module.exports = {
-  getRegiones,
-  getProvincias,
-  getComunas,
-  getComunasByRegion,
+  return communes.filter((commune) => commune.regionId === id)
 }

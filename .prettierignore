@@ -1,6 +1,7 @@
-build/
+dist/
 node_modules/
 package-lock.json
 yarn.lock
 package.json
 src/**/*.test.js
+.github/

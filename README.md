@@ -53,15 +53,15 @@ Esta `function` no recibe parámetros, cuando se llama devuelve una lista de las
 
 Esta `function` se puede usar sin o con parámetros, cuando se llama devuelve una lista de las Provincias de Chile.
 
-* `getProvincias()`: Devuelve una lista de todas las Provincias.
-* `getProvincias(id)`: Devuelve una lista de todas las Provincias de una Región en particular.
+- `getProvincias()`: Devuelve una lista de todas las Provincias.
+- `getProvincias(id)`: Devuelve una lista de todas las Provincias de una Región en particular.
 
 ### getComunas()
 
 Esta `function` se puede usar sin o con parámetros, cuando se llama devuelve una lista de las Comunas de Chile.
 
-* `getComunas()`: Devuelve una lista de todas las Comunas.
-* `getComunas(id)`: Devuelve una lista de todas las Comunas de una Provincia en particular.
+- `getComunas()`: Devuelve una lista de todas las Comunas.
+- `getComunas(id)`: Devuelve una lista de todas las Comunas de una Provincia en particular.
 
 💡 Lo anterior es para su uso en formato de cascada, si necesita solo recuperar las comunas mediante una Región debe usar `getComunasByRegion()`.
 

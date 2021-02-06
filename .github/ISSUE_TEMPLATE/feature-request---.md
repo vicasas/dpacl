@@ -4,7 +4,6 @@ about: Suggest a new idea for the project.
 title: ''
 labels: needs triage
 assignees: ''
-
 ---
 
 <!-- Provide a general summary of the feature in the Title above -->
