@@ -1,0 +1,2424 @@
+[
+  {
+    "id": 1,
+    "regionId": 1,
+    "provinciaId": 1,
+    "name": "Arica",
+    "description": "Comuna de Arica"
+  },
+  {
+    "id": 2,
+    "regionId": 1,
+    "provinciaId": 1,
+    "name": "Camarones",
+    "description": "Comuna de Camarones"
+  },
+  {
+    "id": 3,
+    "regionId": 1,
+    "provinciaId": 2,
+    "name": "General Lagos",
+    "description": "Comuna de General Lagos"
+  },
+  {
+    "id": 4,
+    "regionId": 1,
+    "provinciaId": 2,
+    "name": "Putre",
+    "description": "Comuna de Putre"
+  },
+  {
+    "id": 5,
+    "regionId": 2,
+    "provinciaId": 3,
+    "name": "Alto Hospicio",
+    "description": "Comuna de Alto Hospicio"
+  },
+  {
+    "id": 6,
+    "regionId": 2,
+    "provinciaId": 3,
+    "name": "Iquique",
+    "description": "Comuna de Iquique"
+  },
+  {
+    "id": 7,
+    "regionId": 2,
+    "provinciaId": 4,
+    "name": "Camiña",
+    "description": "Comuna de Camiña"
+  },
+  {
+    "id": 8,
+    "regionId": 2,
+    "provinciaId": 4,
+    "name": "Colchane",
+    "description": "Comuna de Colchane"
+  },
+  {
+    "id": 9,
+    "regionId": 2,
+    "provinciaId": 4,
+    "name": "Huara",
+    "description": "Comuna de Huara"
+  },
+  {
+    "id": 10,
+    "regionId": 2,
+    "provinciaId": 4,
+    "name": "Pica",
+    "description": "Comuna de Pica"
+  },
+  {
+    "id": 11,
+    "regionId": 2,
+    "provinciaId": 4,
+    "name": "Pozo Almonte",
+    "description": "Comuna de Pozo Almonte"
+  },
+  {
+    "id": 12,
+    "regionId": 3,
+    "provinciaId": 5,
+    "name": "Antofagasta",
+    "description": "Comuna de Antofagasta"
+  },
+  {
+    "id": 13,
+    "regionId": 3,
+    "provinciaId": 5,
+    "name": "Mejillones",
+    "description": "Comuna de Mejillones"
+  },
+  {
+    "id": 14,
+    "regionId": 3,
+    "provinciaId": 5,
+    "name": "Sierra Gorda",
+    "description": "Comuna de Sierra Gorda"
+  },
+  {
+    "id": 15,
+    "regionId": 3,
+    "provinciaId": 5,
+    "name": "Taltal",
+    "description": "Comuna de Taltal"
+  },
+  {
+    "id": 16,
+    "regionId": 3,
+    "provinciaId": 6,
+    "name": "Calama",
+    "description": "Comuna de Calama"
+  },
+  {
+    "id": 17,
+    "regionId": 3,
+    "provinciaId": 6,
+    "name": "Ollagüe",
+    "description": "Comuna de Ollagüe"
+  },
+  {
+    "id": 18,
+    "regionId": 3,
+    "provinciaId": 6,
+    "name": "San Pedro de Atacama",
+    "description": "Comuna de San Pedro de Atacama"
+  },
+  {
+    "id": 19,
+    "regionId": 3,
+    "provinciaId": 7,
+    "name": "María Elena",
+    "description": "Comuna de María Elena"
+  },
+  {
+    "id": 20,
+    "regionId": 3,
+    "provinciaId": 7,
+    "name": "Tocopilla",
+    "description": "Comuna de Tocopilla"
+  },
+  {
+    "id": 21,
+    "regionId": 4,
+    "provinciaId": 8,
+    "name": "Chañaral",
+    "description": "Comuna de Chañaral"
+  },
+  {
+    "id": 22,
+    "regionId": 4,
+    "provinciaId": 8,
+    "name": "Diego de Almagro",
+    "description": "Comuna de Diego de Almagro"
+  },
+  {
+    "id": 23,
+    "regionId": 4,
+    "provinciaId": 9,
+    "name": "Caldera",
+    "description": "Comuna de Caldera"
+  },
+  {
+    "id": 24,
+    "regionId": 4,
+    "provinciaId": 9,
+    "name": "Copiapó",
+    "description": "Comuna de Copiapó"
+  },
+  {
+    "id": 25,
+    "regionId": 4,
+    "provinciaId": 9,
+    "name": "Tierra Amarilla",
+    "description": "Comuna de Tierra Amarilla"
+  },
+  {
+    "id": 26,
+    "regionId": 4,
+    "provinciaId": 10,
+    "name": "Alto del Carmen",
+    "description": "Comuna de Alto del Carmen"
+  },
+  {
+    "id": 27,
+    "regionId": 4,
+    "provinciaId": 10,
+    "name": "Freirina",
+    "description": "Comuna de Freirina"
+  },
+  {
+    "id": 28,
+    "regionId": 4,
+    "provinciaId": 10,
+    "name": "Huasco",
+    "description": "Comuna de Huasco"
+  },
+  {
+    "id": 29,
+    "regionId": 4,
+    "provinciaId": 10,
+    "name": "Vallenar",
+    "description": "Comuna de Vallenar"
+  },
+  {
+    "id": 30,
+    "regionId": 5,
+    "provinciaId": 11,
+    "name": "Canela",
+    "description": "Comuna de Canela"
+  },
+  {
+    "id": 31,
+    "regionId": 5,
+    "provinciaId": 11,
+    "name": "Illapel",
+    "description": "Comuna de Illapel"
+  },
+  {
+    "id": 32,
+    "regionId": 5,
+    "provinciaId": 11,
+    "name": "Los Vilos",
+    "description": "Comuna de Los Vilos"
+  },
+  {
+    "id": 33,
+    "regionId": 5,
+    "provinciaId": 11,
+    "name": "Salamanca",
+    "description": "Comuna de Salamanca"
+  },
+  {
+    "id": 34,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "Andacollo",
+    "description": "Comuna de Andacollo"
+  },
+  {
+    "id": 35,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "Coquimbo",
+    "description": "Comuna de Coquimbo"
+  },
+  {
+    "id": 36,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "La Higuera",
+    "description": "Comuna de La Higuera"
+  },
+  {
+    "id": 37,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "La Serena",
+    "description": "Comuna de La Serena"
+  },
+  {
+    "id": 38,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "Paihuaco",
+    "description": "Comuna de Paihuaco"
+  },
+  {
+    "id": 39,
+    "regionId": 5,
+    "provinciaId": 12,
+    "name": "Vicuña",
+    "description": "Comuna de Vicuña"
+  },
+  {
+    "id": 40,
+    "regionId": 5,
+    "provinciaId": 13,
+    "name": "Combarbalá",
+    "description": "Comuna de Combarbalá"
+  },
+  {
+    "id": 41,
+    "regionId": 5,
+    "provinciaId": 13,
+    "name": "Monte Patria",
+    "description": "Comuna de Monte Patria"
+  },
+  {
+    "id": 42,
+    "regionId": 5,
+    "provinciaId": 13,
+    "name": "Ovalle",
+    "description": "Comuna de Ovalle"
+  },
+  {
+    "id": 43,
+    "regionId": 5,
+    "provinciaId": 13,
+    "name": "Punitaqui",
+    "description": "Comuna de Punitaqui"
+  },
+  {
+    "id": 44,
+    "regionId": 5,
+    "provinciaId": 13,
+    "name": "Río Hurtado",
+    "description": "Comuna de Río Hurtado"
+  },
+  {
+    "id": 45,
+    "regionId": 6,
+    "provinciaId": 14,
+    "name": "Isla de Pascua",
+    "description": "Comuna de Isla de Pascua"
+  },
+  {
+    "id": 46,
+    "regionId": 6,
+    "provinciaId": 15,
+    "name": "Calle Larga",
+    "description": "Comuna de Calle Larga"
+  },
+  {
+    "id": 47,
+    "regionId": 6,
+    "provinciaId": 15,
+    "name": "Los Andes",
+    "description": "Comuna de Los Andes"
+  },
+  {
+    "id": 48,
+    "regionId": 6,
+    "provinciaId": 15,
+    "name": "Rinconada de Los Andes",
+    "description": "Comuna de Rinconada de Los Andes"
+  },
+  {
+    "id": 49,
+    "regionId": 6,
+    "provinciaId": 15,
+    "name": "San Esteban",
+    "description": "Comuna de San Esteban"
+  },
+  {
+    "id": 50,
+    "regionId": 6,
+    "provinciaId": 16,
+    "name": "Limache",
+    "description": "Comuna de Limache"
+  },
+  {
+    "id": 51,
+    "regionId": 6,
+    "provinciaId": 16,
+    "name": "Olmué",
+    "description": "Comuna de Olmué"
+  },
+  {
+    "id": 52,
+    "regionId": 6,
+    "provinciaId": 16,
+    "name": "Quilpué",
+    "description": "Comuna de Quilpué"
+  },
+  {
+    "id": 53,
+    "regionId": 6,
+    "provinciaId": 16,
+    "name": "Villa Alemana",
+    "description": "Comuna de Villa Alemana"
+  },
+  {
+    "id": 54,
+    "regionId": 6,
+    "provinciaId": 17,
+    "name": "Cabildo",
+    "description": "Comuna de Cabildo"
+  },
+  {
+    "id": 55,
+    "regionId": 6,
+    "provinciaId": 17,
+    "name": "La Ligua",
+    "description": "Comuna de La Ligua"
+  },
+  {
+    "id": 56,
+    "regionId": 6,
+    "provinciaId": 17,
+    "name": "Papudo",
+    "description": "Comuna de Papudo"
+  },
+  {
+    "id": 57,
+    "regionId": 6,
+    "provinciaId": 17,
+    "name": "Petorca",
+    "description": "Comuna de Petorca"
+  },
+  {
+    "id": 58,
+    "regionId": 6,
+    "provinciaId": 17,
+    "name": "Zapallar",
+    "description": "Comuna de Zapallar"
+  },
+  {
+    "id": 59,
+    "regionId": 6,
+    "provinciaId": 18,
+    "name": "Hijuelas",
+    "description": "Comuna de Hijuelas"
+  },
+  {
+    "id": 60,
+    "regionId": 6,
+    "provinciaId": 18,
+    "name": "La Calera",
+    "description": "Comuna de La Calera"
+  },
+  {
+    "id": 61,
+    "regionId": 6,
+    "provinciaId": 18,
+    "name": "La Cruz",
+    "description": "Comuna de La Cruz"
+  },
+  {
+    "id": 62,
+    "regionId": 6,
+    "provinciaId": 18,
+    "name": "Nogales",
+    "description": "Comuna de Nogales"
+  },
+  {
+    "id": 63,
+    "regionId": 6,
+    "provinciaId": 18,
+    "name": "Quillota",
+    "description": "Comuna de Quillota"
+  },
+  {
+    "id": 64,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "Algarrobo",
+    "description": "Comuna de Algarrobo"
+  },
+  {
+    "id": 65,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "Cartagena",
+    "description": "Comuna de Cartagena"
+  },
+  {
+    "id": 66,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "El Quisco",
+    "description": "Comuna de El Quisco"
+  },
+  {
+    "id": 67,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "El Tabo",
+    "description": "Comuna de El Tabo"
+  },
+  {
+    "id": 68,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "San Antonio",
+    "description": "Comuna de San Antonio"
+  },
+  {
+    "id": 69,
+    "regionId": 6,
+    "provinciaId": 19,
+    "name": "Santo Domingo",
+    "description": "Comuna de Santo Domingo"
+  },
+  {
+    "id": 70,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "Catemu",
+    "description": "Comuna de Catemu"
+  },
+  {
+    "id": 71,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "Llaillay",
+    "description": "Comuna de Llaillay"
+  },
+  {
+    "id": 72,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "Panquehue",
+    "description": "Comuna de Panquehue"
+  },
+  {
+    "id": 73,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "Putaendo",
+    "description": "Comuna de Putaendo"
+  },
+  {
+    "id": 74,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "San Felipe",
+    "description": "Comuna de San Felipe"
+  },
+  {
+    "id": 75,
+    "regionId": 6,
+    "provinciaId": 20,
+    "name": "Santa María",
+    "description": "Comuna de Santa María"
+  },
+  {
+    "id": 76,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Casablanca",
+    "description": "Comuna de Casablanca"
+  },
+  {
+    "id": 77,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Concón",
+    "description": "Comuna de Concón"
+  },
+  {
+    "id": 78,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Juan Fernandéz",
+    "description": "Comuna de Juan Fernandéz"
+  },
+  {
+    "id": 79,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Puchuncaví",
+    "description": "Comuna de Puchuncaví"
+  },
+  {
+    "id": 80,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Quintero",
+    "description": "Comuna de Quintero"
+  },
+  {
+    "id": 81,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Valparaíso",
+    "description": "Comuna de Valparaíso"
+  },
+  {
+    "id": 82,
+    "regionId": 6,
+    "provinciaId": 21,
+    "name": "Viña del Mar",
+    "description": "Comuna de Viña del Mar"
+  },
+  {
+    "id": 83,
+    "regionId": 7,
+    "provinciaId": 22,
+    "name": "Colina",
+    "description": "Comuna de Colina"
+  },
+  {
+    "id": 84,
+    "regionId": 7,
+    "provinciaId": 22,
+    "name": "Lampa",
+    "description": "Comuna de Lampa"
+  },
+  {
+    "id": 85,
+    "regionId": 7,
+    "provinciaId": 22,
+    "name": "Tiltil",
+    "description": "Comuna de Tiltil"
+  },
+  {
+    "id": 86,
+    "regionId": 7,
+    "provinciaId": 23,
+    "name": "Pirque",
+    "description": "Comuna de Pirque"
+  },
+  {
+    "id": 87,
+    "regionId": 7,
+    "provinciaId": 23,
+    "name": "Puente Alto",
+    "description": "Comuna de Puente Alto"
+  },
+  {
+    "id": 88,
+    "regionId": 7,
+    "provinciaId": 23,
+    "name": "San José de Maipo",
+    "description": "Comuna de San José de Maipo"
+  },
+  {
+    "id": 89,
+    "regionId": 7,
+    "provinciaId": 24,
+    "name": "Buin",
+    "description": "Comuna de Buin"
+  },
+  {
+    "id": 90,
+    "regionId": 7,
+    "provinciaId": 24,
+    "name": "Calera de Tango",
+    "description": "Comuna de Calera de Tango"
+  },
+  {
+    "id": 91,
+    "regionId": 7,
+    "provinciaId": 24,
+    "name": "Paine",
+    "description": "Comuna de Paine"
+  },
+  {
+    "id": 92,
+    "regionId": 7,
+    "provinciaId": 24,
+    "name": "San Bernardo",
+    "description": "Comuna de San Bernardo"
+  },
+  {
+    "id": 93,
+    "regionId": 7,
+    "provinciaId": 25,
+    "name": "Alhué",
+    "description": "Comuna de Alhué"
+  },
+  {
+    "id": 94,
+    "regionId": 7,
+    "provinciaId": 25,
+    "name": "Curacaví",
+    "description": "Comuna de Curacaví"
+  },
+  {
+    "id": 95,
+    "regionId": 7,
+    "provinciaId": 25,
+    "name": "María Pinto",
+    "description": "Comuna de María Pinto"
+  },
+  {
+    "id": 96,
+    "regionId": 7,
+    "provinciaId": 25,
+    "name": "Melipilla",
+    "description": "Comuna de Melipilla"
+  },
+  {
+    "id": 97,
+    "regionId": 7,
+    "provinciaId": 25,
+    "name": "San Pedro",
+    "description": "Comuna de San Pedro"
+  },
+  {
+    "id": 98,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Cerrillos",
+    "description": "Comuna de Cerrillos"
+  },
+  {
+    "id": 99,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Cerro Navia",
+    "description": "Comuna de Cerro Navia"
+  },
+  {
+    "id": 100,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Conchalí",
+    "description": "Comuna de Conchalí"
+  },
+  {
+    "id": 101,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "El Bosque",
+    "description": "Comuna de El Bosque"
+  },
+  {
+    "id": 102,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Estación Central",
+    "description": "Comuna de Estación Central"
+  },
+  {
+    "id": 103,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Huechuraba",
+    "description": "Comuna de Huechuraba"
+  },
+  {
+    "id": 104,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Independencia",
+    "description": "Comuna de Independencia"
+  },
+  {
+    "id": 105,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "La Cisterna",
+    "description": "Comuna de La Cisterna"
+  },
+  {
+    "id": 106,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "La Granja",
+    "description": "Comuna de La Granja"
+  },
+  {
+    "id": 107,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "La Florida",
+    "description": "Comuna de La Florida"
+  },
+  {
+    "id": 108,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "La Pintana",
+    "description": "Comuna de La Pintana"
+  },
+  {
+    "id": 109,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "La Reina",
+    "description": "Comuna de La Reina"
+  },
+  {
+    "id": 110,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Las Condes",
+    "description": "Comuna de Las Condes"
+  },
+  {
+    "id": 111,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Lo Barnechea",
+    "description": "Comuna de Lo Barnechea"
+  },
+  {
+    "id": 112,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Lo Espejo",
+    "description": "Comuna de Lo Espejo"
+  },
+  {
+    "id": 113,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Lo Prado",
+    "description": "Comuna de Lo Prado"
+  },
+  {
+    "id": 114,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Macul",
+    "description": "Comuna de Macul"
+  },
+  {
+    "id": 115,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Maipú",
+    "description": "Comuna de Maipú"
+  },
+  {
+    "id": 116,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Ñuñoa",
+    "description": "Comuna de Ñuñoa"
+  },
+  {
+    "id": 117,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Pedro Aguirre Cerda",
+    "description": "Comuna de Pedro Aguirre Cerda"
+  },
+  {
+    "id": 118,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Peñalolén",
+    "description": "Comuna de Peñalolén"
+  },
+  {
+    "id": 119,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Providencia",
+    "description": "Comuna de Providencia"
+  },
+  {
+    "id": 120,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Pudahuel",
+    "description": "Comuna de Pudahuel"
+  },
+  {
+    "id": 121,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Quilicura",
+    "description": "Comuna de Quilicura"
+  },
+  {
+    "id": 122,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Quinta Normal",
+    "description": "Comuna de Quinta Normal"
+  },
+  {
+    "id": 123,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Recoleta",
+    "description": "Comuna de Recoleta"
+  },
+  {
+    "id": 124,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Renca",
+    "description": "Comuna de Renca"
+  },
+  {
+    "id": 125,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "San Miguel",
+    "description": "Comuna de San Miguel"
+  },
+  {
+    "id": 126,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "San Joaquín",
+    "description": "Comuna de San Joaquín"
+  },
+  {
+    "id": 127,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "San Ramón",
+    "description": "Comuna de San Ramón"
+  },
+  {
+    "id": 128,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Santiago",
+    "description": "Comuna de Santiago"
+  },
+  {
+    "id": 129,
+    "regionId": 7,
+    "provinciaId": 26,
+    "name": "Vitacura",
+    "description": "Comuna de Vitacura"
+  },
+  {
+    "id": 130,
+    "regionId": 7,
+    "provinciaId": 27,
+    "name": "El Monte",
+    "description": "Comuna de El Monte"
+  },
+  {
+    "id": 131,
+    "regionId": 7,
+    "provinciaId": 27,
+    "name": "Isla de Maipo",
+    "description": "Comuna de Isla de Maipo"
+  },
+  {
+    "id": 132,
+    "regionId": 7,
+    "provinciaId": 27,
+    "name": "Padre Hurtado",
+    "description": "Comuna de Padre Hurtado"
+  },
+  {
+    "id": 133,
+    "regionId": 7,
+    "provinciaId": 27,
+    "name": "Peñaflor",
+    "description": "Comuna de Peñaflor"
+  },
+  {
+    "id": 134,
+    "regionId": 7,
+    "provinciaId": 27,
+    "name": "Talagante",
+    "description": "Comuna de Talagante"
+  },
+  {
+    "id": 135,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Codegua",
+    "description": "Comuna de Codegua"
+  },
+  {
+    "id": 136,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Coínco",
+    "description": "Comuna de Coínco"
+  },
+  {
+    "id": 137,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Coltauco",
+    "description": "Comuna de Coltauco"
+  },
+  {
+    "id": 138,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Doñihue",
+    "description": "Comuna de Doñihue"
+  },
+  {
+    "id": 139,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Graneros",
+    "description": "Comuna de Graneros"
+  },
+  {
+    "id": 140,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Las Cabras",
+    "description": "Comuna de Las Cabras"
+  },
+  {
+    "id": 141,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Machalí",
+    "description": "Comuna de Machalí"
+  },
+  {
+    "id": 142,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Malloa",
+    "description": "Comuna de Malloa"
+  },
+  {
+    "id": 143,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Olivar",
+    "description": "Comuna de Olivar"
+  },
+  {
+    "id": 144,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Peumo",
+    "description": "Comuna de Peumo"
+  },
+  {
+    "id": 145,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Pichidegua",
+    "description": "Comuna de Pichidegua"
+  },
+  {
+    "id": 146,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Quinta de Tilcoco",
+    "description": "Comuna de Quinta de Tilcoco"
+  },
+  {
+    "id": 147,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Rancagua",
+    "description": "Comuna de Rancagua"
+  },
+  {
+    "id": 148,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Requínoa",
+    "description": "Comuna de Requínoa"
+  },
+  {
+    "id": 149,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "Rengo",
+    "description": "Comuna de Rengo"
+  },
+  {
+    "id": 150,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "San Francisco de Mostazal",
+    "description": "Comuna de San Francisco de Mostazal"
+  },
+  {
+    "id": 151,
+    "regionId": 8,
+    "provinciaId": 28,
+    "name": "San Vicente de Tagua Tagua",
+    "description": "Comuna de San Vicente de Tagua Tagua"
+  },
+  {
+    "id": 152,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "La Estrella",
+    "description": "Comuna de La Estrella"
+  },
+  {
+    "id": 153,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "Litueche",
+    "description": "Comuna de Litueche"
+  },
+  {
+    "id": 154,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "Marchigüe",
+    "description": "Comuna de Marchigüe"
+  },
+  {
+    "id": 155,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "Navidad",
+    "description": "Comuna de Navidad"
+  },
+  {
+    "id": 156,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "Paredones",
+    "description": "Comuna de Paredones"
+  },
+  {
+    "id": 157,
+    "regionId": 8,
+    "provinciaId": 29,
+    "name": "Pichilemu",
+    "description": "Comuna de Pichilemu"
+  },
+  {
+    "id": 158,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Chépica",
+    "description": "Comuna de Chépica"
+  },
+  {
+    "id": 159,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Chimbarongo",
+    "description": "Comuna de Chimbarongo"
+  },
+  {
+    "id": 160,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Lolol",
+    "description": "Comuna de Lolol"
+  },
+  {
+    "id": 161,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Nancagua",
+    "description": "Comuna de Nancagua"
+  },
+  {
+    "id": 162,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Palmilla",
+    "description": "Comuna de Palmilla"
+  },
+  {
+    "id": 163,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Peralillo",
+    "description": "Comuna de Peralillo"
+  },
+  {
+    "id": 164,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Placilla",
+    "description": "Comuna de Placilla"
+  },
+  {
+    "id": 165,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Pumanque",
+    "description": "Comuna de Pumanque"
+  },
+  {
+    "id": 166,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "San Fernando",
+    "description": "Comuna de San Fernando"
+  },
+  {
+    "id": 167,
+    "regionId": 8,
+    "provinciaId": 30,
+    "name": "Santa Cruz",
+    "description": "Comuna de Santa Cruz"
+  },
+  {
+    "id": 168,
+    "regionId": 9,
+    "provinciaId": 31,
+    "name": "Cauquenes",
+    "description": "Comuna de Cauquenes"
+  },
+  {
+    "id": 169,
+    "regionId": 9,
+    "provinciaId": 31,
+    "name": "Chanco",
+    "description": "Comuna de Chanco"
+  },
+  {
+    "id": 170,
+    "regionId": 9,
+    "provinciaId": 31,
+    "name": "Pelluhue",
+    "description": "Comuna de Pelluhue"
+  },
+  {
+    "id": 171,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Curicó",
+    "description": "Comuna de Curicó"
+  },
+  {
+    "id": 172,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Hualañé",
+    "description": "Comuna de Hualañé"
+  },
+  {
+    "id": 173,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Licantén",
+    "description": "Comuna de Licantén"
+  },
+  {
+    "id": 174,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Molina",
+    "description": "Comuna de Molina"
+  },
+  {
+    "id": 175,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Rauco",
+    "description": "Comuna de Rauco"
+  },
+  {
+    "id": 176,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Romeral",
+    "description": "Comuna de Romeral"
+  },
+  {
+    "id": 177,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Sagrada Familia",
+    "description": "Comuna de Sagrada Familia"
+  },
+  {
+    "id": 178,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Teno",
+    "description": "Comuna de Teno"
+  },
+  {
+    "id": 179,
+    "regionId": 9,
+    "provinciaId": 32,
+    "name": "Vichuquén",
+    "description": "Comuna de Vichuquén"
+  },
+  {
+    "id": 180,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Colbún",
+    "description": "Comuna de Colbún"
+  },
+  {
+    "id": 181,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Linares",
+    "description": "Comuna de Linares"
+  },
+  {
+    "id": 182,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Longaví",
+    "description": "Comuna de Longaví"
+  },
+  {
+    "id": 183,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Parral",
+    "description": "Comuna de Parral"
+  },
+  {
+    "id": 184,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Retiro",
+    "description": "Comuna de Retiro"
+  },
+  {
+    "id": 185,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "San Javier de Loncomilla",
+    "description": "Comuna de San Javier de Loncomilla"
+  },
+  {
+    "id": 186,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Villa Alegre",
+    "description": "Comuna de Villa Alegre"
+  },
+  {
+    "id": 187,
+    "regionId": 9,
+    "provinciaId": 33,
+    "name": "Yerbas Buenas",
+    "description": "Comuna de Yerbas Buenas"
+  },
+  {
+    "id": 188,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Constitución",
+    "description": "Comuna de Constitución"
+  },
+  {
+    "id": 189,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Curepto",
+    "description": "Comuna de Curepto"
+  },
+  {
+    "id": 190,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Empedrado",
+    "description": "Comuna de Empedrado"
+  },
+  {
+    "id": 191,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Maule",
+    "description": "Comuna de Maule"
+  },
+  {
+    "id": 192,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Pelarco",
+    "description": "Comuna de Pelarco"
+  },
+  {
+    "id": 193,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Pencahue",
+    "description": "Comuna de Pencahue"
+  },
+  {
+    "id": 194,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Río Claro",
+    "description": "Comuna de Río Claro"
+  },
+  {
+    "id": 195,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "San Clemente",
+    "description": "Comuna de San Clemente"
+  },
+  {
+    "id": 196,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "San Rafael",
+    "description": "Comuna de San Rafael"
+  },
+  {
+    "id": 197,
+    "regionId": 9,
+    "provinciaId": 34,
+    "name": "Talca",
+    "description": "Comuna de Talca"
+  },
+  {
+    "id": 198,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Bulnes",
+    "description": "Comuna de Bulnes"
+  },
+  {
+    "id": 199,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Chillán",
+    "description": "Comuna de Chillán"
+  },
+  {
+    "id": 200,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Chillán Viejo",
+    "description": "Comuna de Chillán Viejo"
+  },
+  {
+    "id": 201,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "El Carmen",
+    "description": "Comuna de El Carmen"
+  },
+  {
+    "id": 202,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Pemuco",
+    "description": "Comuna de Pemuco"
+  },
+  {
+    "id": 203,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Pinto",
+    "description": "Comuna de Pinto"
+  },
+  {
+    "id": 204,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Quillón",
+    "description": "Comuna de Quillón"
+  },
+  {
+    "id": 205,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "San Ignacio",
+    "description": "Comuna de San Ignacio"
+  },
+  {
+    "id": 206,
+    "regionId": 10,
+    "provinciaId": 35,
+    "name": "Yungay",
+    "description": "Comuna de Yungay"
+  },
+  {
+    "id": 207,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Cobquecura",
+    "description": "Comuna de Cobquecura"
+  },
+  {
+    "id": 208,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Coelemu",
+    "description": "Comuna de Coelemu"
+  },
+  {
+    "id": 209,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Ninhue",
+    "description": "Comuna de Ninhue"
+  },
+  {
+    "id": 210,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Portezuelo",
+    "description": "Comuna de Portezuelo"
+  },
+  {
+    "id": 211,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Quirihue",
+    "description": "Comuna de Quirihue"
+  },
+  {
+    "id": 212,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Ránquil",
+    "description": "Comuna de Ránquil"
+  },
+  {
+    "id": 213,
+    "regionId": 10,
+    "provinciaId": 36,
+    "name": "Treguaco",
+    "description": "Comuna de Treguaco"
+  },
+  {
+    "id": 214,
+    "regionId": 10,
+    "provinciaId": 37,
+    "name": "Coihueco",
+    "description": "Comuna de Coihueco"
+  },
+  {
+    "id": 215,
+    "regionId": 10,
+    "provinciaId": 37,
+    "name": "Ñiquén",
+    "description": "Comuna de Ñiquén"
+  },
+  {
+    "id": 216,
+    "regionId": 10,
+    "provinciaId": 37,
+    "name": "San Carlos",
+    "description": "Comuna de San Carlos"
+  },
+  {
+    "id": 217,
+    "regionId": 10,
+    "provinciaId": 37,
+    "name": "San Fabián",
+    "description": "Comuna de San Fabián"
+  },
+  {
+    "id": 218,
+    "regionId": 10,
+    "provinciaId": 37,
+    "name": "San Nicolás",
+    "description": "Comuna de San Nicolás"
+  },
+  {
+    "id": 219,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Arauco",
+    "description": "Comuna de Arauco"
+  },
+  {
+    "id": 220,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Cañete",
+    "description": "Comuna de Cañete"
+  },
+  {
+    "id": 221,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Contulmo",
+    "description": "Comuna de Contulmo"
+  },
+  {
+    "id": 222,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Curanilahue",
+    "description": "Comuna de Curanilahue"
+  },
+  {
+    "id": 223,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Lebu",
+    "description": "Comuna de Lebu"
+  },
+  {
+    "id": 224,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Los Álamos",
+    "description": "Comuna de Los Álamos"
+  },
+  {
+    "id": 225,
+    "regionId": 11,
+    "provinciaId": 38,
+    "name": "Tirúa",
+    "description": "Comuna de Tirúa"
+  },
+  {
+    "id": 226,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Alto Biobío",
+    "description": "Comuna de Alto Biobío"
+  },
+  {
+    "id": 227,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Antuco",
+    "description": "Comuna de Antuco"
+  },
+  {
+    "id": 228,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Cabrero",
+    "description": "Comuna de Cabrero"
+  },
+  {
+    "id": 229,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Laja",
+    "description": "Comuna de Laja"
+  },
+  {
+    "id": 230,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Los Ángeles",
+    "description": "Comuna de Los Ángeles"
+  },
+  {
+    "id": 231,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Muichén",
+    "description": "Comuna de Muichén"
+  },
+  {
+    "id": 232,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Nacimiento",
+    "description": "Comuna de Nacimiento"
+  },
+  {
+    "id": 233,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Negrele",
+    "description": "Comuna de Negrele"
+  },
+  {
+    "id": 234,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Quilaco",
+    "description": "Comuna de Quilaco"
+  },
+  {
+    "id": 235,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Quilleco",
+    "description": "Comuna de Quilleco"
+  },
+  {
+    "id": 236,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "San Rosendo",
+    "description": "Comuna de San Rosendo"
+  },
+  {
+    "id": 237,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Santa Bárbara",
+    "description": "Comuna de Santa Bárbara"
+  },
+  {
+    "id": 238,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Tucapel",
+    "description": "Comuna de Tucapel"
+  },
+  {
+    "id": 239,
+    "regionId": 11,
+    "provinciaId": 39,
+    "name": "Yumbel",
+    "description": "Comuna de Yumbel"
+  },
+  {
+    "id": 240,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Chiguayante",
+    "description": "Comuna de Chiguayante"
+  },
+  {
+    "id": 241,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Concepción",
+    "description": "Comuna de Concepción"
+  },
+  {
+    "id": 242,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Coronel",
+    "description": "Comuna de Coronel"
+  },
+  {
+    "id": 243,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Florida",
+    "description": "Comuna de Florida"
+  },
+  {
+    "id": 244,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Hualpén",
+    "description": "Comuna de Hualpén"
+  },
+  {
+    "id": 245,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Hualqui",
+    "description": "Comuna de Hualqui"
+  },
+  {
+    "id": 246,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Lota",
+    "description": "Comuna de Lota"
+  },
+  {
+    "id": 247,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Penco",
+    "description": "Comuna de Penco"
+  },
+  {
+    "id": 248,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "San Pedro de la Paz",
+    "description": "Comuna de San Pedro de la Paz"
+  },
+  {
+    "id": 249,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Santa Juana",
+    "description": "Comuna de Santa Juana"
+  },
+  {
+    "id": 250,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Talcahuano",
+    "description": "Comuna de Talcahuano"
+  },
+  {
+    "id": 251,
+    "regionId": 11,
+    "provinciaId": 40,
+    "name": "Tomé",
+    "description": "Comuna de Tomé"
+  },
+  {
+    "id": 252,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Carahue",
+    "description": "Comuna de Carahue"
+  },
+  {
+    "id": 253,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Cholchol",
+    "description": "Comuna de Cholchol"
+  },
+  {
+    "id": 254,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Cunco",
+    "description": "Comuna de Cunco"
+  },
+  {
+    "id": 255,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Curarrehue",
+    "description": "Comuna de Curarrehue"
+  },
+  {
+    "id": 256,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Freire",
+    "description": "Comuna de Freire"
+  },
+  {
+    "id": 257,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Galvarino",
+    "description": "Comuna de Galvarino"
+  },
+  {
+    "id": 258,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Gorbea",
+    "description": "Comuna de Gorbea"
+  },
+  {
+    "id": 259,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Lautaro",
+    "description": "Comuna de Lautaro"
+  },
+  {
+    "id": 260,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Loncoche",
+    "description": "Comuna de Loncoche"
+  },
+  {
+    "id": 261,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Melipeuco",
+    "description": "Comuna de Melipeuco"
+  },
+  {
+    "id": 262,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Nueva Imperial",
+    "description": "Comuna de Nueva Imperial"
+  },
+  {
+    "id": 263,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Padre Las Casas",
+    "description": "Comuna de Padre Las Casas"
+  },
+  {
+    "id": 264,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Perquenco",
+    "description": "Comuna de Perquenco"
+  },
+  {
+    "id": 265,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Pitrufquén",
+    "description": "Comuna de Pitrufquén"
+  },
+  {
+    "id": 266,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Pucón",
+    "description": "Comuna de Pucón"
+  },
+  {
+    "id": 267,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Saavedra",
+    "description": "Comuna de Saavedra"
+  },
+  {
+    "id": 268,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Temuco",
+    "description": "Comuna de Temuco"
+  },
+  {
+    "id": 269,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Teodoro Schmidt",
+    "description": "Comuna de Teodoro Schmidt"
+  },
+  {
+    "id": 270,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Toltén",
+    "description": "Comuna de Toltén"
+  },
+  {
+    "id": 271,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Vilcún",
+    "description": "Comuna de Vilcún"
+  },
+  {
+    "id": 272,
+    "regionId": 12,
+    "provinciaId": 41,
+    "name": "Villarrica",
+    "description": "Comuna de Villarrica"
+  },
+  {
+    "id": 273,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Angol",
+    "description": "Comuna de Angol"
+  },
+  {
+    "id": 274,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Collipulli",
+    "description": "Comuna de Collipulli"
+  },
+  {
+    "id": 275,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Curacautín",
+    "description": "Comuna de Curacautín"
+  },
+  {
+    "id": 276,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Ercilla",
+    "description": "Comuna de Ercilla"
+  },
+  {
+    "id": 277,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Lonquimay",
+    "description": "Comuna de Lonquimay"
+  },
+  {
+    "id": 278,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Los Sauces",
+    "description": "Comuna de Los Sauces"
+  },
+  {
+    "id": 279,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Lumaco",
+    "description": "Comuna de Lumaco"
+  },
+  {
+    "id": 280,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Purén",
+    "description": "Comuna de Purén"
+  },
+  {
+    "id": 281,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Renaico",
+    "description": "Comuna de Renaico"
+  },
+  {
+    "id": 282,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Traiguén",
+    "description": "Comuna de Traiguén"
+  },
+  {
+    "id": 283,
+    "regionId": 12,
+    "provinciaId": 42,
+    "name": "Victoria",
+    "description": "Comuna de Victoria"
+  },
+  {
+    "id": 284,
+    "regionId": 13,
+    "provinciaId": 43,
+    "name": "Futrono",
+    "description": "Comuna de Futrono"
+  },
+  {
+    "id": 285,
+    "regionId": 13,
+    "provinciaId": 43,
+    "name": "La Unión",
+    "description": "Comuna de La Unión"
+  },
+  {
+    "id": 286,
+    "regionId": 13,
+    "provinciaId": 43,
+    "name": "Lago Ranco",
+    "description": "Comuna de Lago Ranco"
+  },
+  {
+    "id": 287,
+    "regionId": 13,
+    "provinciaId": 43,
+    "name": "Río Bueno",
+    "description": "Comuna de Río Bueno"
+  },
+  {
+    "id": 288,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Corral",
+    "description": "Comuna de Corral"
+  },
+  {
+    "id": 289,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Lanco",
+    "description": "Comuna de Lanco"
+  },
+  {
+    "id": 290,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Los Lagos",
+    "description": "Comuna de Los Lagos"
+  },
+  {
+    "id": 291,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Máfil",
+    "description": "Comuna de Máfil"
+  },
+  {
+    "id": 292,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Mariquína",
+    "description": "Comuna de Mariquína"
+  },
+  {
+    "id": 293,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Paillaco",
+    "description": "Comuna de Paillaco"
+  },
+  {
+    "id": 294,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Panguipulli",
+    "description": "Comuna de Panguipulli"
+  },
+  {
+    "id": 295,
+    "regionId": 13,
+    "provinciaId": 44,
+    "name": "Valdivia",
+    "description": "Comuna de Valdivia"
+  },
+  {
+    "id": 296,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Ancud",
+    "description": "Comuna de Ancud"
+  },
+  {
+    "id": 297,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Castro",
+    "description": "Comuna de Castro"
+  },
+  {
+    "id": 298,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Chonchi",
+    "description": "Comuna de Chonchi"
+  },
+  {
+    "id": 299,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Curaco de Vélez",
+    "description": "Comuna de Curaco de Vélez"
+  },
+  {
+    "id": 300,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Dalcahue",
+    "description": "Comuna de Dalcahue"
+  },
+  {
+    "id": 301,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Puqueldón",
+    "description": "Comuna de Puqueldón"
+  },
+  {
+    "id": 302,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Queilén",
+    "description": "Comuna de Queilén"
+  },
+  {
+    "id": 303,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Quellón",
+    "description": "Comuna de Quellón"
+  },
+  {
+    "id": 304,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Quemchi",
+    "description": "Comuna de Quemchi"
+  },
+  {
+    "id": 305,
+    "regionId": 14,
+    "provinciaId": 45,
+    "name": "Quinchao",
+    "description": "Comuna de Quinchao"
+  },
+  {
+    "id": 306,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Calbuco",
+    "description": "Comuna de Calbuco"
+  },
+  {
+    "id": 308,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Cochamó",
+    "description": "Comuna de Cochamó"
+  },
+  {
+    "id": 308,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Fresia",
+    "description": "Comuna de Fresia"
+  },
+  {
+    "id": 309,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Frutillar",
+    "description": "Comuna de Frutillar"
+  },
+  {
+    "id": 310,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Llanquihue",
+    "description": "Comuna de Llanquihue"
+  },
+  {
+    "id": 311,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Los Muermos",
+    "description": "Comuna de Los Muermos"
+  },
+  {
+    "id": 312,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Maullín",
+    "description": "Comuna de Maullín"
+  },
+  {
+    "id": 313,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Puerto Montt",
+    "description": "Comuna de Puerto Montt"
+  },
+  {
+    "id": 314,
+    "regionId": 14,
+    "provinciaId": 46,
+    "name": "Puerto Varas",
+    "description": "Comuna de Puerto Varas"
+  },
+  {
+    "id": 315,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "Osorno",
+    "description": "Comuna de Osorno"
+  },
+  {
+    "id": 316,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "Puerto Octay",
+    "description": "Comuna de Puerto Octay"
+  },
+  {
+    "id": 317,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "Purranque",
+    "description": "Comuna de Purranque"
+  },
+  {
+    "id": 318,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "Puyehue",
+    "description": "Comuna de Puyehue"
+  },
+  {
+    "id": 319,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "Río Negro",
+    "description": "Comuna de Río Negro"
+  },
+  {
+    "id": 320,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "San Pablo",
+    "description": "Comuna de San Pablo"
+  },
+  {
+    "id": 321,
+    "regionId": 14,
+    "provinciaId": 47,
+    "name": "San Juan de la Costa",
+    "description": "Comuna de San Juan de la Costa"
+  },
+  {
+    "id": 322,
+    "regionId": 14,
+    "provinciaId": 48,
+    "name": "Chaitén",
+    "description": "Comuna de Chaitén"
+  },
+  {
+    "id": 323,
+    "regionId": 14,
+    "provinciaId": 48,
+    "name": "Futaleufú",
+    "description": "Comuna de Futaleufú"
+  },
+  {
+    "id": 324,
+    "regionId": 14,
+    "provinciaId": 48,
+    "name": "Hualaihué",
+    "description": "Comuna de Hualaihué"
+  },
+  {
+    "id": 325,
+    "regionId": 14,
+    "provinciaId": 48,
+    "name": "Palena",
+    "description": "Comuna de Palena"
+  },
+  {
+    "id": 326,
+    "regionId": 15,
+    "provinciaId": 49,
+    "name": "Aysén",
+    "description": "Comuna de Aysén"
+  },
+  {
+    "id": 327,
+    "regionId": 15,
+    "provinciaId": 49,
+    "name": "Cisnes",
+    "description": "Comuna de Cisnes"
+  },
+  {
+    "id": 328,
+    "regionId": 15,
+    "provinciaId": 49,
+    "name": "Guaitecas",
+    "description": "Comuna de Guaitecas"
+  },
+  {
+    "id": 329,
+    "regionId": 15,
+    "provinciaId": 50,
+    "name": "Cochrane",
+    "description": "Comuna de Cochrane"
+  },
+  {
+    "id": 330,
+    "regionId": 15,
+    "provinciaId": 50,
+    "name": "O'Higgins",
+    "description": "Comuna de O'Higgins"
+  },
+  {
+    "id": 331,
+    "regionId": 15,
+    "provinciaId": 50,
+    "name": "Tortel",
+    "description": "Comuna de Tortel"
+  },
+  {
+    "id": 332,
+    "regionId": 15,
+    "provinciaId": 51,
+    "name": "Coyhaique",
+    "description": "Comuna de Coyhaique"
+  },
+  {
+    "id": 333,
+    "regionId": 15,
+    "provinciaId": 51,
+    "name": "Lago Verde",
+    "description": "Comuna de Lago Verde"
+  },
+  {
+    "id": 334,
+    "regionId": 15,
+    "provinciaId": 52,
+    "name": "Chile Chico",
+    "description": "Comuna de Chile Chico"
+  },
+  {
+    "id": 335,
+    "regionId": 15,
+    "provinciaId": 52,
+    "name": "Río Ibáñez",
+    "description": "Comuna de Río Ibáñez"
+  },
+  {
+    "id": 336,
+    "regionId": 16,
+    "provinciaId": 53,
+    "name": "Antártica",
+    "description": "Comuna de Antártica"
+  },
+  {
+    "id": 337,
+    "regionId": 16,
+    "provinciaId": 53,
+    "name": "Cabo de Hornos",
+    "description": "Comuna de Cabo de Hornos"
+  },
+  {
+    "id": 338,
+    "regionId": 16,
+    "provinciaId": 54,
+    "name": "Laguna Blanca",
+    "description": "Comuna de Laguna Blanca"
+  },
+  {
+    "id": 339,
+    "regionId": 16,
+    "provinciaId": 54,
+    "name": "Punta Arenas",
+    "description": "Comuna de Punta Arenas"
+  },
+  {
+    "id": 340,
+    "regionId": 16,
+    "provinciaId": 54,
+    "name": "Río Verde",
+    "description": "Comuna de Río Verde"
+  },
+  {
+    "id": 341,
+    "regionId": 16,
+    "provinciaId": 54,
+    "name": "San Gregorio",
+    "description": "Comuna de San Gregorio"
+  },
+  {
+    "id": 342,
+    "regionId": 16,
+    "provinciaId": 55,
+    "name": "Porvenir",
+    "description": "Comuna de Porvenir"
+  },
+  {
+    "id": 343,
+    "regionId": 16,
+    "provinciaId": 55,
+    "name": "Primavera",
+    "description": "Comuna de Primavera"
+  },
+  {
+    "id": 344,
+    "regionId": 16,
+    "provinciaId": 55,
+    "name": "Timaukel",
+    "description": "Comuna de Timaukel"
+  },
+  {
+    "id": 345,
+    "regionId": 16,
+    "provinciaId": 56,
+    "name": "Natales",
+    "description": "Comuna de Natales"
+  },
+  {
+    "id": 346,
+    "regionId": 16,
+    "provinciaId": 56,
+    "name": "Torres del Paine",
+    "description": "Comuna de Torres del Paine"
+  }
+]
